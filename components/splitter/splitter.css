@@ -1,0 +1,14 @@
+.splitter-panel{
+    overflow: auto;
+    
+    
+}
+.spliiter-panel-close{
+    
+}
+.splitter{
+    min-width: 10px;
+    min-height: 10px;
+    border:1px solid gray;
+    
+}

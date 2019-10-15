@@ -9,7 +9,7 @@ export default class SplitterPage extends React.Component {
     render() {
         return (
             <div style={{ ...flex('stretch') }} >
-                Splitter
+
             </div>
         );
     }
