@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    user-select: none;
+}
+
+body{
+    background-color: var(--fone);
+    color:var(--color);
+    margin:0px;
+    padding:0px;
+    overflow:hidden;
+    font-family: roboto,"Noto Sans Myanmar UI",arial,sans-serif;
+}
+
+#wp{
+    position: absolute;
+    margin:0px;
+    padding:5px;
+    width:100%;
+    height:100%;
+    border:1px solid 0;
+    display:flex;
+    
+}
+
+#page{
+    border:0px;
+    flex-grow: 1;
+    display: flex;
+}
+
+.box{
+    border:1px solid var(--border);
+}
