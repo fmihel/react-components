@@ -46,7 +46,7 @@
     "webpack-dev-server": "^3.8.2"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fmihel-lib": "^0.8.3",
     "jquery": "^3.4.1",
     "prop-types": "^15.7.2",
